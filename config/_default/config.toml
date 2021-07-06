@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://roswellinfographics.com"
+baseURL = "/"
 title = "Roswell Infographics"
 theme = "copper-hugo"
 # post pagination
