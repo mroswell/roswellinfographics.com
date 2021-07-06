@@ -5,7 +5,7 @@ favicon_32x32 = "images/favicon.png"
 favicon_16x16 = "images/favicon.png"
 apple_touch_icon = "images/favicon.png"
 # logo
-logo_text = "RoswellInfographics"
+logo_text = "Roswell Infographics"
 logo = "images/logo.png"
 logo_width = ""
 # OpenGraph / Twitter Card metadata
@@ -37,7 +37,7 @@ link = ""
 # Footer call to action
 [footer_call_to_action]
 enable = true
-title = "Join 75,000+ growing business That **Use Copper To Their Brand**"
+title = "**Roswell Infographics** can your data new life "
 [footer_cta_button]
 enable = true
 label = "Get Started With Us"
