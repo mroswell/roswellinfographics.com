@@ -5,19 +5,19 @@ layout : "services"
 draft : false
 
 services:
-- name : "Charts"
-  icon_url : "/images/icons_resized/bar_graph.svg"
-  content : "We'll help you choose the right chart type, appropriate colors, and best user experience for your charts in email, video, website, or reports"
-
 - name : "Interactive Maps"
   icon : "fas fa-bell"
   icon_url : "/images/icons_resized/choropleth_map.svg"
-  content : "Interactive Mapping is the core work of Roswell Infographics."
+  content : "Interactive mapping is the core work of Roswell Infographics. Bring your data to life. Scorecard Maps. Vote Maps. Dot Maps. "
+  
+- name : "Charts"
+  icon_url : "/images/icons_resized/bar_graph.svg"
+  content : "We'll help you choose the right chart types, appropriate colors, and best user experience for data visualizations for your email, video, websites, or reports"
 
 - name : "Identify Data Anomalies"
   icon : "fas fa-paperclip"
   icon_url : "/images/icons/distribution.svg"
-  content : "Sometimes the greatest value of a data visualization is to help reveal (and&nbsp;correct!) errors in your data."
+  content : "Sometimes the greatest value of a data visualization or report is to help reveal (and&nbsp;correct!) errors in your data."
 
 - name : "Documentation"
   icon : "fas fa-clipboard"
