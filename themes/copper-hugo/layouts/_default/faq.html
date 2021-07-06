@@ -1,0 +1,12 @@
+{{ define "main" }}
+    {{ "<!-- faq -->" | safeHTML }}
+    <section class="section">
+        <div class="container">
+            <div class="row  justify-content-center">
+                {{ .Content }}
+            </div>
+        </div>
+    </section>
+    {{ "<!-- /faq -->" | safeHTML }}
+
+{{ end }}
