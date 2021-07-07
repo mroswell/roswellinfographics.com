@@ -13,7 +13,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ partialCached "style.html" . }}
 </head>
 
-<body data-spy="scroll" data-target="#navbar-spy" class="position-relative">
+<body data-spy="scroll" data-target="#navbar-spy" class="position-relative loaded">
 	{{ partialCached "preloader.html" . }}
   {{ .Scratch.Set "bg" "bg-light-gray" }}
 	{{ partial "header.html" . }}

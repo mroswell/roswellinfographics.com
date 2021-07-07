@@ -15,16 +15,9 @@ jQuery.event.special.touchmove = {
 };
 
 // preloader
-$(window).bind('load', function () {
-	function preLoader() {
-		$('body').addClass('loaded');
-		if($(".preloader").length !== 0) {
-			$('.preloader').addClass('loaded');
-		}
-	}
-	setTimeout(function () {
-		preLoader();
-	}, 600);
+$(window).on('load', function () {
+	$('body').addClass('loaded');
+	$('.preloader').addClass('loaded');
 });
 
 
