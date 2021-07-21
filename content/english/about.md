@@ -1,5 +1,5 @@
 ---
-title : "About Us"
+title : "About"
 description : "this is meta description"
 layout : "about"
 draft : false
@@ -7,38 +7,31 @@ draft : false
 ################## Mission ###############
 mission:
   enable : true
-  title : "Our mission is to empower advocacy organizations with **data clarity**"
+  title: "We transform data into **tools and stories** that propel social change."
+  content : 'Many organizations tackle the question: "What do these numbers mean?" We are dedicated to helping our clients answer that question through data visualization. We believe we can help unlock a path to advancing progress.'
   image : "images/about/02.jpg"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores"
   bulletpoints:
-  - "Habit building in essential steps choose habit Good Things"
-  - "Get an overview of Habit Calendars admiral general."
-  - "Start building habit with Habitify on platform to new"
+  - "Create an easy workflow from data to visualization"
+  - "Use your existing data tools or assess better solutions"
+  - "Get your story out in an accessible way"
 
 ################## Funfacts ###############
 funfacts:
   enable : true
   funfacts_item:
-  - name : "Launched in April of"
-    count : "2015"
-    extension : ""
     
-  - name : "Our product powers"
-    count : "1000"
-    extension : "+"
+  - name : "Most common project"
+    count : ""
+    extension : "Interactive Scorecard"
     
-  - name : "served customers"
-    count : "15"
-    extension : "M+"
-    
-  - name : "Made by hand in"
+  - name : "Upcoming Legislative Maps"
     count : "250"
-    extension : "+"
+    extension : "Pennsylvania and New Jersey"
 
 
 ################## vision ###############
 vision:
-  enable : true
+  enable : false
   title : "What Are The Main **Vision Of Company?**"
   image : "images/about/03.jpg"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
@@ -48,7 +41,7 @@ vision:
 
 ############### Featured testimonial ###############
 featured_testimonial:
-  enable : true
+  enable : false
   name : "Marsh Angela Costa"
   designation : "CEO, Trello"
   quote : "“Copper gives us the ease to have people hop in where they need to, to get to a customer resolution really quickly.”"

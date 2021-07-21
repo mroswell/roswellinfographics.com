@@ -44,11 +44,16 @@
   <div class="container">
     <div class="shadow px-4 pt-30">
       <div class="has-colored-text row no-gutters overflow-hidden">
+        <div class="col-lg-4 col-sm-12 text-center has-separator mb-30" data-aos="fade-up">
+          <p class="has-text-color mb-10e">Launched in</p>
+          <h2 class="text-black-200 font-weight-bold">
+            <span class="jsCounter-2" data-count="2001">2001</span></h2>
+        </div>
         {{ range .funfacts_item }}
-        <div class="col-lg-3 col-sm-6 text-center has-separator mb-30" data-aos="fade-up">
+        <div class="col-lg-4 col-sm-12 text-center has-separator mb-30" data-aos="fade-up">
           <p class="has-text-color mb-10 text-capitalize">{{ .name }}</p>
           <h2 class="text-black-200 font-weight-bold">
-            <span class="jsCounter-2" data-count="{{ .count }}">0</span>{{.extension}}</h2>
+            <span> {{.extension}}</span></h2>
         </div>
         {{ end }}
       </div>
@@ -93,8 +98,8 @@
 <!-- end section -->
 
 <!-- start of growth-rate -->
-{{if .Params.achivement.enable }}
-{{with .Params.achivement }}
+{{if .Params.achievement.enable }}
+{{with .Params.achievement }}
 <section class="section-padding pb-50">
   <div class="container">
     <div class="row justify-content-center">
