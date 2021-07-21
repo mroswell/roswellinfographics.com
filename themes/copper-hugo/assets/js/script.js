@@ -15,7 +15,7 @@ jQuery.event.special.touchmove = {
 };
 
 // preloader
-$(window).on('load', function () {
+$(document).ready(function(){
 	$('body').addClass('loaded');
 	$('.preloader').addClass('loaded');
 });
@@ -97,7 +97,7 @@ $(window).on('load', function () {
 	}
 
 	$(window).on('scroll', function () {
-		
+
 		if($(".jsCounter").length !== 0) { counter(); }
 		if($(".jsCounter-2").length !== 0) { counterTwo(); }
 		inCircleInit();
@@ -121,7 +121,6 @@ $(window).on('load', function () {
 	});
 
 	$(document).ready(function () {
-
 		if ($(window).width() < 1199) {
 			$('.navbar .dropdown-toggle').on('click', function (e) {
 				$(this).siblings('.dropdown-menu, .dropdown-submenu').animate({
@@ -171,7 +170,7 @@ $(window).on('load', function () {
 			});
 		}
 		horizontalAccordion();
-		
+
 		// smoothScroll init
 		function smoothScroll() {
 			$('.smooth-scroll').click(function (event) {
