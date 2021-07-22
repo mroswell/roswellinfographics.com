@@ -23,7 +23,7 @@ banner:
 
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
-  enable : true
+  enable : false
   logos:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"
@@ -42,11 +42,11 @@ clients_logo_slider:
 ########################## How it works #########################
 homepage_tab:
   enable : true
-  title : "How **it Works**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  title : "From Data to **Story**"
+  content : "We specialize in creating an easy workflow using accessible tools"
   tablist:
   # tab item
-  - name : "Task Management"
+  - name : "Your Data"
     title : "Task **Management**"
     image : "images/screenshots/how-it-works-1.jpg"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
@@ -56,8 +56,8 @@ homepage_tab:
       link : "how-it-works"
       
   # tab item
-  - name : "Built In Chat"
-    title : "Built In **Chat**"
+  - name : "Interactive Maps"
+    title : " **Chat**"
     image : "images/screenshots/03.png"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
     button:
@@ -66,8 +66,8 @@ homepage_tab:
       link : "how-it-works"
       
   # tab item
-  - name : "Project Analytics"
-    title : "Project **Analytics**"
+  - name : "Charts"
+    title : "Your **Data**"
     image : "images/screenshots/04.png"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
     button:
@@ -76,7 +76,7 @@ homepage_tab:
       link : "how-it-works"
       
   # tab item
-  - name : "Task Collaboration"
+  - name : "Social Sharing"
     title : "Task **Collaboration**"
     image : "images/screenshots/how-it-works-1.jpg"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
@@ -89,7 +89,7 @@ homepage_tab:
 ############################## Tools in Use ########################
 tools:
   enable : true
-  title : "Integrate the **tools you already use**"
+  title : "**Choose** the right chart type for your data"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
   logos:
   - "images/tools/01.png"
@@ -106,7 +106,7 @@ tools:
 
 ############################## Achievement ##############################
 achievement:
-  enable : true
+  enable : false
   title : "Average yearly growth rate **across our clients We able to achieve**"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et"
   funfacts:
@@ -138,7 +138,7 @@ achievement:
 
 ############################## Workflow ################################
 workflow:
-  enable : true
+  enable : false
   title : "Create an automated **workflow by setting**"
   image : "images/screenshots/03.png"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."

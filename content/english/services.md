@@ -1,6 +1,6 @@
 ---
 title : "Services"
-description : "this is meta description"
+description : "Services"
 layout : "services"
 draft : false
 
@@ -12,7 +12,7 @@ services:
   
 - name : "Charts"
   icon_url : "/images/icons_resized/bar_graph.svg"
-  content : "We'll help you choose the right chart types, appropriate colors, and best user experience for data visualizations for your email, video, websites, or reports"
+  content : "We'll help you choose the right chart types, appropriate colors, and best user experience for data visualizations for your email, video, websites, or reports."
 
 - name : "Identify Data Anomalies"
   icon : "fas fa-paperclip"
@@ -26,12 +26,12 @@ services:
 - name : "Advance Your<br>Data Viz Skills"
   icon : "fas fa-clipboard"
   icon_url: "/images/icons_resized/area_graph.svg"
-  content : "We can teach you data visualization skills to meet your own charting and mapping needs"
+  content : "We can teach you and your team data visualization skills."
 
-- name : "Your Concepts"
+- name : "Consultation"
   icon_url: "/images/icons_resized/concepts.svg"
-  content : "Let's chat about your ideas for visualizing workflows, chemical formulas, numbers, stories, and issues."
+  content : "Let's discuss your needs and goals for data visualization."
 ---
 
 ## Our **Services**
-Give some thought to the data that your organization already has, and the data that you want to collect. Data visualization makes your data more useful.
+We specialize in working with nonprofit organizations to turn data into tools and stories. We offer assessments and customized solutions that fit the needs of your organization.

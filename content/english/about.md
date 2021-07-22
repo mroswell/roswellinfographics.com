@@ -17,7 +17,7 @@ mission:
 
 ################## Funfacts ###############
 funfacts:
-  enable : true
+  enable : false
   funfacts_item:
     
   - name : "Most common project"
