@@ -2,7 +2,7 @@
 ############################ Banner ##################################
 banner:
   enable : true
-  title : "Give Your customers human feeling touch **Like Never Before**"
+  title : "We transform data into **tools and stories** that propel social change."
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna"
   image : "images/screenshots/banner-shot.png"
   video:
@@ -13,7 +13,7 @@ banner:
     form_acttion : "#"
     button_label : "Request Demo"
   button:
-    enable : true
+    enable : false
     icon : "images/brands/google.png"
     label : "Sign Up With Google"
     link : "#"

@@ -7,7 +7,7 @@ draft : false
 ################## Mission ###############
 mission:
   enable : true
-  title: "We transform data into **tools and stories** that propel social change."
+  title: "We are dedicated to supporting non-profits with simple and affordable data visualization services."
   content : 'Many organizations tackle the question: "What do these numbers mean?" We are dedicated to helping our clients answer that question through data visualization. We believe we can help unlock a path to advancing progress.'
   image : "images/about/02.jpg"
   bulletpoints:

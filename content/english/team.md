@@ -6,7 +6,7 @@ draft : false
 
 team_member:
 - name : "Marjorie Roswell"
-  image : "images/team/01.jpg"
+  image : "images/team/marjorie.png"
   designation : "Senior Developer"
   group : "developers"
   social:
@@ -18,28 +18,28 @@ team_member:
     link : "#"
 
 - name : "Daniel Valencia"
-  image : "images/team/02.jpg"
+  image : "images/team/daniel.png"
   designation : "Senior Designer"
   group : "designers"
   social:
-  - icon : "fab fa-linkedin"
+  - icon : ""
     link : "#"
-  - icon : "fab fa-twitter"
+  - icon : ""
     link : "#"
-  - icon : "fab fa-github"
+  - icon : ""
     link : "#"
     
 - name : "Annabel Park"
-  image : "images/team/03.jpg"
-  designation : "Email Marketer"
+  image : "images/team/annabel.png"
+  designation : "Social Media Maven"
   group : "marketers"
   social:
   - icon : "fab fa-linkedin"
-    link : "#"
+    link : "https://www.linkedin.com/in/annabelpark/"
   - icon : "fab fa-twitter"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+    link : "https://twitter.com/annabelpark"
+  - icon : "fab fa-facebook"
+    link : "https://www.facebook.com/annabelpark/"
     
 ---
 
