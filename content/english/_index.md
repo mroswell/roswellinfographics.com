@@ -92,17 +92,15 @@ tools:
   title : "**Choose** the right chart type for your data"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
   logos:
-  - "images/tools/01.png"
-  - "images/tools/02.png"
-  - "images/tools/03.png"
-  - "images/tools/04.png"
-  - "images/tools/05.png"
-  - "images/tools/06.png"
-  - "images/tools/07.png"
-  - "images/tools/08.png"
-  - "images/tools/05.png"
-
-  
+  - "images/icons/starburst/your_data.png"
+  - "images/icons/starburst/treemap.svg"
+  - "images/icons/starburst/bar_graph.svg"
+  - "images/icons/starburst/flow_chart.svg"
+  - "images/icons/starburst/bubble_chart.svg"
+  - "images/icons/starburst/point_and_figure_chart.svg"
+  - "images/icons/starburst/population_pyramid.svg"
+  - "images/icons/starburst/point_map.svg"
+  - "images/icons/starburst/area_graph.svg"
 
 ############################## Achievement ##############################
 achievement:
@@ -160,32 +158,28 @@ about_us:
 ############################# Testimonial ############################
 testimonial:
   enable : true
-  title : "What Our **Client says**"
-  content : "Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam"
+  title : "What Our **Clients say**"
+  content : ""
   button:
-    enable : true
+    enable : false
     label : "View All Testimonials"
     link : "testimonial"
 
   testimonial_item:
-  - name : "Angela Markel"
-    image : "images/users/01.jpg"
-    designation : "CEO, Angular Corporation"
-    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+  - name : "Ed Potosnak"
+    image : "images/testimonials/ed_potosnak.png"
+    designation : "Director, New Jersey League of Conservation Voters"
+    content : "There has been much more interest in our legislative scorecard now that it's an interactive map. We all enjoy working with Marjorie, and will continue to include the map in our biennial scorecard. "
     
-  - name : "Angela Markel"
-    image : "images/users/02.jpg"
-    designation : "CEO, Angular Corporation"
-    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+  - name : "Billy Wimsatt"
+    image : "images/testimonials/billy_wimsatt.jpg"
+    designation : "Executive Director, Movement Voter Project"
+    content : "We've helped raise more than $100 million by connecting donors with more than 500 local movement vote groups. We started with a small website, and a map on the homepage by Roswell&nbsp;Infographics that declared our intentions."
     
-  - name : "Angela Markel"
-    image : "images/users/03.jpg"
-    designation : "CEO, Angular Corporation"
-    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+  - name : "Sarah Hackney"
+    image : "images/testimonials/sarah_hackney.jpg"
+    designation : "Coalition Director, National Sustainable Agriculture Coalition"
+    content : "Marjorie built a Farm Bill amendment tracker for our critical issues, and updated it each time there was a roll call vote. Then she showed us how we could maintain the chart ourselves. We'll do this again for the next Farm Bill."
     
-  - name : "Angela Markel"
-    image : "images/users/02.jpg"
-    designation : "CEO, Angular Corporation"
-    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
 
 ---

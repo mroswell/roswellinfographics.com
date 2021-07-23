@@ -2,30 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://roswellinfographics.com/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://roswellinfographics.com/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://roswellinfographics.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://roswellinfographics.com/contact/</loc>
+    <loc>/faq/</loc>
   </url><url>
-    <loc>https://roswellinfographics.com/faq/</loc>
+    <loc>/privacy-policy/</loc>
   </url><url>
-    <loc>https://roswellinfographics.com/how-it-works/</loc>
+    <loc>/services/</loc>
   </url><url>
-    <loc>https://roswellinfographics.com/pricing/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://roswellinfographics.com/privacy-policy/</loc>
+    <loc>/team/</loc>
   </url><url>
-    <loc>https://roswellinfographics.com/services/</loc>
+    <loc>/terms-conditions/</loc>
   </url><url>
-    <loc>https://roswellinfographics.com/tags/</loc>
-  </url><url>
-    <loc>https://roswellinfographics.com/team/</loc>
-  </url><url>
-    <loc>https://roswellinfographics.com/terms-conditions/</loc>
-  </url><url>
-    <loc>https://roswellinfographics.com/testimonial/</loc>
+    <loc>/testimonial/</loc>
   </url>
 </urlset>

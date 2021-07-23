@@ -291,9 +291,9 @@ $(document).ready(function(){
 		if($(".testimonials-carousel").length !== 0) {
 			function testimonialsCarousel() {
 				$('.testimonials-carousel').slick({
-					dots: true,
+					dots: false,
 					arrows: false,
-					infinite: true,
+					infinite: false,
 					speed: 400,
 					slidesToShow: 3,
 					slidesToScroll: 1,
