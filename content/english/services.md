@@ -33,5 +33,5 @@ services:
   content : "Let's discuss your needs and goals for data visualization."
 ---
 
-## Our **Services**
+
 We specialize in working with nonprofit organizations to turn data into tools and stories. We offer assessments and customized solutions that fit the needs of your organization.
