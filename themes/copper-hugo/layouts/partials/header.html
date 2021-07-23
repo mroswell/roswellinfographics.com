@@ -72,42 +72,34 @@
   <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
-        <h4 class="modal-title font-weight-bold">Sign up now</h4>
+        <h4 class="modal-title font-weight-bold">Contact Us</h4>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body p-3 p-sm-4">
-        <form method="POST" class="needs-validation row" novalidate>
-          <div class="form-group mb-20 col-md-6">
-            <label class="text-black-200 h6 font-weight-600 mb-2" for="fname">First Name*</label>
-            <input class="form-control shadow-none" type="text" placeholder="Jack" id="fname" required>
-            <p class="font-weight-bold invalid-feedback">Your first name is required!</p>
+
+        <form method="POST" class="rounded shadow p-30" action="{{site.Params.contact_form_action}}">
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="fname">Name</label>
+            <input class="form-control shadow-none" name="name" type="text" placeholder="Jack Barker" id="fname" required>
           </div>
-          <div class="form-group mb-20 col-md-6">
-            <label class="text-black-200 h6 font-weight-600 mb-2" for="lname">Last Name*</label>
-            <input class="form-control shadow-none" type="text" placeholder="Barker" id="lname" required>
-            <p class="font-weight-bold invalid-feedback">Your last name is required!</p>
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="email">Email Address</label>
+            <input class="form-control shadow-none" name="email" type="email" placeholder="looks@beautiful.com" id="email" required>
           </div>
-          <div class="form-group mb-20 col-12">
-            <label class="text-black-200 h6 font-weight-600 mb-2" for="email2">Email Address*</label>
-            <input class="form-control shadow-none" type="email" placeholder="jack@email.com" id="email2" required>
-            <p class="font-weight-bold invalid-feedback">Your email is required!</p>
+          {{/*          <div class="form-group mb-30">*/}}
+          {{/*            <label class="text-black-200 h5 font-weight-600 mb-2" for="website">{{i18n "website"}}</label>*/}}
+          {{/*            <input class="form-control shadow-none" type="url" placeholder="Website">*/}}
+          {{/*          </div>*/}}
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="message">Your Message</label>
+            <textarea class="form-control shadow-none" name="comment" rows="5" id="message" required></textarea>
           </div>
-          <div class="form-group mb-20 col-12">
-            <label class="text-black-200 h6 font-weight-600 mb-2" for="password">Password*</label>
-            <input class="form-control shadow-none" type="password" id="password" required>
-            <p class="font-weight-bold invalid-feedback">Your password is required!</p>
-          </div>
-          <div class="form-group mb-20 col-12">
-            <label class="text-black-200 h6 font-weight-600 mb-2" for="repassword">Retype Password*</label>
-            <input class="form-control shadow-none" type="password" id="repassword" required>
-            <p class="font-weight-bold invalid-feedback">Please retype your password.</p>
-          </div>
-          <div class="form-group col-12">
-            <button class="btn btn-primary w-100" type="submit">Sign Up</button>
-          </div>
+          <button class="btn btn-primary w-100" type="submit">{{ i18n "submit"}}</button>
         </form>
+        <hr>
+
       </div>
     </div>
   </div>

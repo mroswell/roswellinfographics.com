@@ -27,7 +27,7 @@ greetings_to = "Copper"
 # navigation button
 [navigation_button_bordered]
 enable = true
-label = "Sign Up"
+label = "Contact Us"
 link = ""
 
 [navigation_button_linked]

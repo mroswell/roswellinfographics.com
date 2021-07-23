@@ -18,7 +18,7 @@ weight = 3
 [[main]]
 name = "Team"
 url = "team"
-weight = 4
+weight = 5
 
 #[[main]]
 #name = "Blog"
@@ -26,49 +26,54 @@ weight = 4
 #weight = 5
 
 [[main]]
-name = "Contact"
-url = "contact"
-weight = 6
+name = "FAQ"
+url = "faq"
+weight = 4
 
-[[main]]
-name = "Pages"
-weight = 7
-hasChildren = true
+#[[main]]
+#name = "Contact"
+#url = "contact"
+#weight = 6
+##
+#[[main]]
+#name = "Pages"
+#weight = 7
+#hasChildren = true
 
 #  [[main]]
 #  parent = "Pages"
 #  name = "Career"
 #  url = "career"
-
-  [[main]]
-  parent = "Pages"
-  name = "Pricing"
-  url = "pricing"
-
+#
 #  [[main]]
 #  parent = "Pages"
-#  name = "Pricing 2"
-#  url = "pricing-2"
-
-  [[main]]
-  parent = "Pages"
-  name = "How It Works"
-  url = "how-it-works"
-
-  [[main]]
-  parent = "Pages"
-  name = "Testimonial"
-  url = "testimonial"
-
-  [[main]]
-  parent = "Pages"
-  name = "Faq"
-  url = "faq"
-
-  [[main]]
-  parent = "Pages"
-  name = "Changelog"
-  url = "changelog"
+#  name = "Pricing"
+#  url = "pricing"
+#
+##  [[main]]
+##  parent = "Pages"
+##  name = "Pricing 2"
+##  url = "pricing-2"
+#
+#  [[main]]
+#  parent = "Pages"
+#  name = "How It Works"
+#  url = "how-it-works"
+#
+#  [[main]]
+#  parent = "Pages"
+#  name = "Testimonial"
+#  url = "testimonial"
+#
+#  [[main]]
+#  parent = "Pages"
+#  name = "Faq"
+#  url = "faq"
+#
+#  [[main]]
+#  parent = "Pages"
+#  name = "Changelog"
+#  url = "changelog"
 
 # Footer menu
 [[footer]]
