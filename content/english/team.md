@@ -43,5 +43,6 @@ team_member:
     
 ---
 
-## Our **Team members**
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+[comment]: <> (## Our **Team members**)
+
+[comment]: <> (Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.)

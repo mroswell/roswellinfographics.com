@@ -16,7 +16,7 @@ services:
 
 - name : "Identify Data Anomalies"
   icon : "fas fa-paperclip"
-  icon_url : "/images/icons/distribution.svg"
+  icon_url : "/images/icons_resized/distribution.svg"
   content : "Sometimes the greatest value of a data visualization or report is to help reveal (and&nbsp;correct!) errors in your data."
 
 - name : "Documentation"

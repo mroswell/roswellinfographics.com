@@ -144,7 +144,7 @@ workflow:
 
 ############################## about us ################################
 about_us:
-  enable : true
+  enable : false
   title : "Who Are We And **What Is Our Identity?**"
   image : "images/about/01.jpg"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores"
@@ -169,12 +169,12 @@ testimonial:
   - name : "Ed Potosnak"
     image : "images/testimonials/ed_potosnak.png"
     designation : "Director, New Jersey League of Conservation Voters"
-    content : "There has been much more interest in our legislative scorecard now that it's an interactive map. We all enjoy working with Marjorie, and will continue to include the map in our biennial scorecard. "
+    content : "There has been much more interest in our legislative scorecard now that it's an interactive map. We  enjoy working with Marjorie, and will continue to include the map in our biennial scorecard. "
     
   - name : "Billy Wimsatt"
     image : "images/testimonials/billy_wimsatt.jpg"
     designation : "Executive Director, Movement Voter Project"
-    content : "We've helped raise more than $100 million by connecting donors with more than 500 local movement vote groups. We started with a small website, and a map on the homepage by Roswell&nbsp;Infographics that declared our intentions."
+    content : "We've helped raise more than $100 million by connecting donors with more than 500 local movement vote groups. We started with a small website, and an interactive map on the homepage by Roswell&nbsp;Infographics that declared our intentions."
     
   - name : "Sarah Hackney"
     image : "images/testimonials/sarah_hackney.jpg"
