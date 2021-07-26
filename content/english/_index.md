@@ -174,7 +174,8 @@ testimonial:
   - name : "Billy Wimsatt"
     position: ", Executive Director"
     designation : "Movement Voter Project"
-    content : "We've helped raise more than $100 million by connecting donors with more than 500 local movement vote groups. We started with a small website, and an interactive map on the homepage by Roswell&nbsp;Infographics that declared our intentions."
+    content1 : "We've helped raise more than $100 million by connecting donors with more than 500 local movement vote groups. We started with a small website, and an interactive map on the homepage by Roswell&nbsp;Infographics that declared our intentions."
+    content :  "We've helped 40,000 donors move $100 million to more than 500 local movement vote groups. Our core asset at the beginning was an interactive map by Roswell Infographics - Thank you Roswell for your incredible work and partnership!"
     
   - name : "Sarah Hackney"
     position: ", Coalition Director"
