@@ -158,7 +158,7 @@ about_us:
 ############################# Testimonial ############################
 testimonial:
   enable : true
-  title : "What Our **Clients say**"
+  title : "What **Our Clients** say"
   content : ""
   button:
     enable : false
@@ -167,18 +167,18 @@ testimonial:
 
   testimonial_item:
   - name : "Ed Potosnak"
-    image : "images/testimonials/ed_potosnak.png"
-    designation : "Director, New Jersey League of Conservation Voters"
-    content : "There has been much more interest in our legislative scorecard now that it's an interactive map. We  enjoy working with Marjorie, and will continue to include the map in our biennial scorecard. "
+    position : ", Executive Director"
+    designation : "New&nbsp;Jersey&nbsp;League&nbsp;of&nbsp;Conservation&nbsp;Voters"
+    content : "There has been much more interest in our legislative scorecard now that it's an interactive map. We  enjoy working with Marjorie, and will continue to include the map in our biennial scorecard."
     
   - name : "Billy Wimsatt"
-    image : "images/testimonials/billy_wimsatt.jpg"
-    designation : "Executive Director, Movement Voter Project"
+    position: ", Executive Director"
+    designation : "Movement Voter Project"
     content : "We've helped raise more than $100 million by connecting donors with more than 500 local movement vote groups. We started with a small website, and an interactive map on the homepage by Roswell&nbsp;Infographics that declared our intentions."
     
   - name : "Sarah Hackney"
-    image : "images/testimonials/sarah_hackney.jpg"
-    designation : "Coalition Director, National Sustainable Agriculture Coalition"
+    position: ", Coalition Director"
+    designation : "National Sustainable Agriculture Coalition"
     content : "Marjorie built a Farm Bill amendment tracker for our critical issues, and updated it each time there was a roll call vote. Then she showed us how we could maintain the chart ourselves. We'll do this again for the next Farm Bill."
     
 
